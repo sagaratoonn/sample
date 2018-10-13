@@ -1,0 +1,27 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample app for Zeit/Now",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagaratoonn/sample.git"
+  },
+  "author": "Sagara Takahiro <vimyum@gmail.com> (https://qiita.com/vimyum)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagaratoonn/sample/issues"
+  },
+  "homepage": "https://github.com/sagaratoonn/sample#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
